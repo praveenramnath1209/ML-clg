@@ -1,0 +1,11 @@
+ProductID,Product_Name,Price,Sales,Rating,Feature_Score
+1,T-Shirt,20,500,4.3,80
+2,Jeans,45,350,4.1,70
+3,Jacket,90,200,4.5,85
+4,Sneakers,60,450,4.6,88
+5,Socks,5,700,3.9,60
+6,Hat,15,480,4.0,65
+7,Dress,75,300,4.4,82
+8,Belt,25,250,3.8,55
+9,Hoodie,50,400,4.3,78
+10,Shorts,30,380,4.1,72
